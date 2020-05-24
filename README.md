@@ -1,1 +1,1 @@
-# diplom
+# diplom.github.io
